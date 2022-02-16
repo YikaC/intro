@@ -3,7 +3,7 @@ dibodyv {
 }
 
 body {
-  color：#40514E;
+  color: #40514E;
   margin: 0;
   text-align: center;
   font-family: 'Merriweather', serif;
@@ -50,8 +50,8 @@ p{
 a {
   color: #11999E;
   margin-top: 50px;
-  front-family:'Montserrat'.sans-serif;
-  mrgin 10px 20px;
+  font-family:'Montserrat',sans-serif;
+  margin: 10px 20px;
   text-decoration:none;
 
 }
